@@ -1,11 +1,4 @@
-# Mail
-  - If you´re from Niantic. You can contact us here admin@ar1i.xyz (No Support!)
-
-# Donate
-  - Every Donation will help the Project!
-  - 
-[![PayPal Donation](https://www.paypalobjects.com/en_US/DE/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RUNUBQEANCAGQ)
-  - Bitcoin: 1PdQK9hhdLy83UKVQVop8bjnkSw17hj5z4
+This Bot was originally made by https://github.com/Ar1i/PokemonGo-Bot
 
 # Credits to:
   - https://github.com/NECROBOTIO/NecroBot <- Without him this bot wont be alive, so please share some love! His Bot is awesome too!
